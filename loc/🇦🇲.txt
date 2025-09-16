@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://fbb99a66-d8a0-474b-8814-bc62420b64cb@92.223.2.119:25711?path=%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B2
