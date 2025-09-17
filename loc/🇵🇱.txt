@@ -1,3 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-ss://YWVzLTI1Ni1nY206YTRWdHFSd2hqNmdXYkh3TDRKdDI2dw%3D%3D@ss.80808.sbs:20#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiaGFtZWRwNzE6OvCfh7Xwn4exIiwic2N5IjoiYXV0byIsInNuaSI6ImZhcGVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?path=%2Fvless%2F&security=&encryption=none&host=---%40ShadowProxy66&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

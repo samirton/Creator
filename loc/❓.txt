@@ -1,4 +1,5 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@vinted.fr:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@economist.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
 vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@indeed.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@thailandnet65.ir:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@ahrefs.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#hamedp71%3A%3A%E2%9D%93
