@@ -1,3 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 vmess://eyJhZGQiOiI0Ny44My4xOC4xMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxNzZiZjFkZC02NDdmLTRjMDktODkyZS01ZjkyMjNkYzg2MTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjM2OTY4IiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
-vless://d8665d45-8103-46e9-9cb7-8902bb7559b4@43.159.99.26:443?encryption=none&security=tls&sni=hk3.kaipi.link&type=ws&host=hk3.kaipi.link&path=%2Ftexaws#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
