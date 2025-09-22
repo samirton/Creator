@@ -1,5 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@indeed.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@cdnjs.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@tgju.org:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
-vless://6c11247b-6078-461a-93d5-22e4df284e6d@198.62.62.229:443?encryption=none&security=tls&sni=mirror.fullmargintraders.com&type=ws&host=mirror.fullmargintraders.com&path=%2Fwsv%2F6c11247b-6078-461a-93d5-22e4df284e6d#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@fonts.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@hunter.io:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
