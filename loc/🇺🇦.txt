@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?security=reality&encryption=none&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
