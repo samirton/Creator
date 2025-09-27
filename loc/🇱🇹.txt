@@ -1,2 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://01998658-1fa3-683a-125c-6c11eacd1f4f@91.197.1.93:2053?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
