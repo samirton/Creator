@@ -1,5 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://6et7U7udLe@qige.zaide.tech:22846?security=tls&sni=qige.zaide.tech&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJhZGQiOiIxMTYuMjA2LjkzLjE2NSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYmI4OTIwNzgtOThlZi00MzIxLWVkZjQtNGM0MDhlZGQ1YWUyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjM5OTc1LCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
