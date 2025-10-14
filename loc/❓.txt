@@ -1,4 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-@cassiusvpn-?ed%3D2048&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%E2%9D%93
 vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&allowInsecure=1&fp=chrome&type=ws&path=/&host=1403.stopt7307.workers.dev&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%E2%9D%93
-hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#hamedp71%3A%3A%E2%9D%93
-hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205/?obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&sni=net2025.afsharidempire.uk&insecure=1&alpn=h3#hamedp71%3A%3A%E2%9D%93
+vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?encryption=none&security=none&type=ws&host=---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN&path=%2Fvless%2F#hamedp71%3A%3A%E2%9D%93
