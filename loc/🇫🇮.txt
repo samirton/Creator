@@ -1,5 +1,6 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0b2d0WU5EZlBWeno=@185.242.247.149:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?security=reality&encryption=none&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
