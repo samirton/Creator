@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?security=reality&encryption=none&pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=india2.clearorbitllc.com&sid=157c0871#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
