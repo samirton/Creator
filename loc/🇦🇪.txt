@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://4f673b32-3360-4bfa-b031-54676e87d1bd@84.235.245.18:34501?security=tls&type=ws&sni=joss.krekkrek.web.id&path=/Free-VPN-CF-Geo-Project/84.235.245.18=34501&host=joss.krekkrek.web.id#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA

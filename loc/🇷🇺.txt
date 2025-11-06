@@ -1,10 +1,10 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.193:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
@@ -14,8 +14,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.220:8880?security=none&fp=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.220:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.149:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.165:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
@@ -24,5 +25,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=none&all
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://5c1bc547-6ed3-4234-873e-966d9eef5d27@russia22.clearorbitllc.com:443?security=reality&encryption=none&pbk=fwyaXZJrcorp1BQM4O2SicK-n15VNO53GWvvFsecbhM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=russia22.clearorbitllc.com&sid=10f76a02167e9b#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.232:8880?mode=gun&security=none&encryption=none&authority=/telegram cafe_vpn2/telegram cafe_vpn2/telegram cafe_vpn2/telegram cafe_vpn2/telegram cafe_vpn2&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.232:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
