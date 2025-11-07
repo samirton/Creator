@@ -1,5 +1,6 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://65955e03-cb70-4791-8850-00e79e5badd7@partner.zoom.us:8080?path=%2FSenuXzVip&security=none&encryption=none&host=vip.senu-zer.online&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206YmQwODA4OTgtYjQxYS00OGFlLWIxNjQtMWJhYWU0MTI0NjI3@15.235.186.140:8443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?security=reality&encryption=none&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=d3875950#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
