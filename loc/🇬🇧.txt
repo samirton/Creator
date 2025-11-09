@@ -1,8 +1,8 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
@@ -13,22 +13,21 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?security=none&f
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.108:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org@V2rayNGVPN%3C%3D%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.122.221:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638977742221952935.warsaw-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.122.221:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-021.shenzogmbh.com&fp=chrome&type=ws&sni=gb-021.shenzogmbh.com#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638977742221947111.warsaw-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.213:8880?mode=gun&security=none&encryption=none&authority=KANAL--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN--MTMVPN&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.172:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.213:8880?mode=gun&security=&alpn=h3,h2,http/1.1&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&fp=chrome&type=grpc&sni=---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.209:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.173:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638977742221946555.warsaw-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638977742221952467.warsaw-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192994984.budapest-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
