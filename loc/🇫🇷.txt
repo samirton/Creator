@@ -1,4 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-hy2://dongtaiwang.com@51.159.111.32:5355?insecure=1&sni=www.bing.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096?security=tls&sni=vpn-srv-2.circlevpn.net&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096?security=tls&sni=vpn-srv-2.circlevpn.net&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://46c0349a-4c2f-463a-bced-e45cc132205b@213.21.242.82:443?path=/ray&security=tls&encryption=none&type=ws&sni=hikoop.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
