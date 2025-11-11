@@ -1,3 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vmess://eyJhZGQiOiJzZy12MnJheS5mcmVldm1lc3MuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiODIwY2VhYjAtZGUxZC00ZDNiLTlkNWYtN2U4MzY2NGMzZjBjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?security=reality&encryption=none&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=d3875950#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
