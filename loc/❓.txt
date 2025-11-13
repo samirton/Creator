@@ -1,3 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/89.28.236.243=443&host=joss.dus.biz.id#hamedp71%3A%3A%E2%9D%93
-ss://YWVzLTEyOC1nY206NTdiYzBjMDQtODE4NC00OGY1LTkwNmItODk3ZDA5NWVkNDQ1@141.11.76.77:17459#hamedp71%3A%3A%E2%9D%93
