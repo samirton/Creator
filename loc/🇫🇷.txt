@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://2a2d95c5-56f0-455b-a80a-4b920842d886@51.195.92.49:80?type=ws&encryption=none&path=/&host=lunavow5d444ef.global.ssl.fastly.net&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://3557aa39-7564-4362-9713-8a2dd2a98830@45.67.139.37:443?security=reality&encryption=none&pbk=k3h5nEAsMcyb9tVMeEepA4jd9JiPhcVCIVLPKWyao0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedsmart.net&sid=ed464ab7d7a8#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
