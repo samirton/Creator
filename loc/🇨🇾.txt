@@ -1,4 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.176:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.176:8880?encryption=none&security=none&type=grpc&note=@freeOnlineVPN#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.183:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE
