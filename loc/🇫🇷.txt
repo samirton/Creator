@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://3557aa39-7564-4362-9713-8a2dd2a98830@45.67.139.37:443?security=reality&encryption=none&pbk=k3h5nEAsMcyb9tVMeEepA4jd9JiPhcVCIVLPKWyao0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedsmart.net&sid=ed464ab7d7a8#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://db2c8a95-f751-46e3-b05e-d2def66850fb@172.64.144.20:443?path=%2Fhttp%3A%2F%2F37.187.124.25%3A8187%2F&security=tls&encryption=none&host=ayanamirei.11160321.xyz&type=ws&sni=ayanamirei.11160321.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://17178783-0dd7-4544-bf6b-e0694a1e3da7@141.94.222.214:2053?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/141.94.222.214=2053&host=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://f7140d34-dcc0-440c-bb51-bbd8ed7d8b11@paris.fonixapp.org:16607?security=reality&encryption=none&pbk=MIDSDaDAnyD3LPtHE8oLcGJjQP2Qj1RVJR853N1T924&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=expedia.com&sid=78#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7

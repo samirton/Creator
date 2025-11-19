@@ -1,4 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 vmess://eyJhZGQiOiI4LjIxMS4xNjQuMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjczMTkzY2NlLTdjYTEtNGIwOC05M2ZmLTRlZThiMDE0NzM3NCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbV9Ac3N3aWEiLCJwb3J0IjoiMjA1MjIiLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
-vless://3c0e49cb-8940-561a-83b8-1efbb17f7cf7@5.253.41.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.cc&fp=chrome&pbk=InGeZG9b5-uRQkHJpQWM37XRVFUyn5zYzx8UfhqrHGM&sid=736b98f2&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://ec52eb59-a9d6-4693-bed4-490f2b244195@104.18.46.50:443?&security=tls&sni=pq-jps.pqvip.top&type=ws&headerType=none&host=pq-jps.pqvip.top&path=%2Fpq%2Fjp1#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
