@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&host=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
