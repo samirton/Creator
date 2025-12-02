@@ -1,2 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vmess://eyJhZGQiOiI2OC42NC4xNzYuMTQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhhZmI1YjZkLTUxZjYtNGJmOC1mNGUyLTAzNzg4MjIyMDBiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEzMjUiLCJwcyI6ImhhbWVkcDcxOjrwn4et8J+HsCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?insecure=1&sni=hk1.shiyuandian.shop#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://79314e99f0a473fe86efc7827942ad00@58.152.18.192:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
