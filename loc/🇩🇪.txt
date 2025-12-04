@@ -1,11 +1,14 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTdVZ1k4UlJNRTFiZXFjdEZhSUxR@62.133.60.60:7048#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://55d198a1-a5f5-4a96-9e4a-70950ea166a8@clyde.ns.cloudflare.com:443?path=%2Fpvoxsaws&security=tls&encryption=none&host=639002442881637239.supra-amsir.info&type=ws&sni=639002442881637239.supra-amsir.info#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=%2Fegakxows&security=tls&encryption=none&host=639002592262919469.sentra-amsir.info&type=ws&sni=639002592262919469.sentra-amsir.info#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZVVKajZIV0N5RFplU2FxcG1mOEFN@162.19.175.40:7425#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=kalam.mrconfigur.site&type=ws&sni=kalam.mrconfigur.site#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.99.190.62:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://e5603527-ac9b-4f69-906e-34bea11c5835@easygovpnkeys16.com:6093?security=reality&encryption=none&pbk=W91d6Qp8Avflj9K7rMYGGdhxV_W0Ds_FSu_c996zknk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eas1goauth.com&sid=57e13c11bb421329#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://38021ff2-6778-4363-92b1-d70ac11acf51@25.25.25.253:2096?path=%2F&security=tls&encryption=none&host=alanconf.info&type=ws&sni=alanconf.info#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://f9589f7c-3117-4b99-9dd5-e1822c72eb46@94.141.123.233:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=fc7a526a7e61ba3b#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.113.207:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://38021ff2-6778-4363-92b1-d70ac11acf51@25.25.25.253:2096?path=/&security=tls&encryption=none&host=alanconf.info&type=ws&sni=alanconf.info#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.113.207:443?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
