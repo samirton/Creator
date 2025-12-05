@@ -1,4 +1,5 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?&type=ws&headerType=none&path=/admin#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&sni=kuame.missionsec.us#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
