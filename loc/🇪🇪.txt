@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://d29bde62-daa4-4804-9c69-6e23a4150006@45.92.176.55:1243?security=reality&encryption=none&pbk=jcJeCbLo5JtfveFIQLV6WNm1148XzxDc0Rzy336hXy0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=ff3cef7cdcf9#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
