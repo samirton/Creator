@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://9032f390-3f3a-4684-8c08-eb43a8221840@152.53.48.191:443?security=reality&encryption=none&pbk=wG4RJ_iEf7jv_-IfxcDlEH2iU_owWeHKUUdRfCLSTlc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=microsoft.com&sid=1b4f98936510#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
