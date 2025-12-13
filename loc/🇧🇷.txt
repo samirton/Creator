@@ -1,2 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 vmess://eyJhZGQiOiIzOC4xODAuMTYuODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiRTE0NkE4Q0ItOUQyRi00NDlDLUFEQ0EtODczNkZCIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNjEwNCIsInBzIjoiaGFtZWRwNzE6OvCfh6fwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9

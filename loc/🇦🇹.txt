@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://20b898ac-a156-41ee-be1c-34fa8fc88487@lifestealer.fonixapp.org:2083?security=reality&type=tcp&sni=configuration.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=173c58&pbk=ILR40ZmA56RadPtGy0UJmrSPva5Viapz65j-hrS25D8&encryption=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9

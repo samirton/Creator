@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:443?mode=gun&security=reality&encryption=none&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&fp=safari&type=grpc&serviceName=78e691d782c9b9b2cd3c5621&sni=www.microsoft.com&sid=ce874361e8dfcd4e#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
