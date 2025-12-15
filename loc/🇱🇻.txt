@@ -1,3 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://c492f234-08b0-492b-a898-72b7b25d17b8@94.131.104.155:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=latvia10.clearorbitllc.com&pbk=JbbVqSXwW17otLCj-6E7t9R5BNTYFgarOXT6At4Yz2s&sid=3196e860&spx=/sinavm_sinavm#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
