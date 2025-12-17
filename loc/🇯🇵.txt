@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://b52fac66-fd92-47ae-b1f6-332aa1c353d9@57.180.50.81:37390?&security=tls&sni=xxh.ipipip.im&type=ws&headerType=none&host=xxh.ipipip.im&path=%2Fxxhjphome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5

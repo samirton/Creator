@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://bc66129c-bb06-0dac-a7fc-3d35b38f87e5@de.u-team.ir:5678?security=reality&encryption=none&pbk=mKzDPCMzVSSDRLoXQzPZ9bxWacxNKNj4UjRP1vXBCBA&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=d59f3cc6a68619e8#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AA
