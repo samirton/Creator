@@ -1,4 +1,6 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?security=none&type=ws&path=%2F&host=cloudflare.com&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@31.13.208.3:5443?path=%2Fvless&security=none&encryption=none&host=fin.mcqueenconnection.ru&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4d7a559b-6379-41a7-9e51-41ef759846aa@158.160.191.241:443?security=reality&encryption=none&pbk=MofBU4YalVzrV7O_T5OmaUA5BmkITNw8qbkVSeOMvTE&headerType=none&fp=chrome&spx=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=ed3eb3256dee971f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://3a066455-22e9-45e7-804e-f1aaaa280e02@144.31.169.4:6443?security=reality&encryption=none&pbk=eg81n6lQc3AyTJJyYbQFTYuaKWQBGJ9tSpAWWow1zno&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=/&security=none&encryption=none&host=cloudflare.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
