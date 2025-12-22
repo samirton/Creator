@@ -1,3 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4d7a559b-6379-41a7-9e51-41ef759846aa@158.160.191.241:443?security=reality&encryption=none&pbk=MofBU4YalVzrV7O_T5OmaUA5BmkITNw8qbkVSeOMvTE&headerType=none&fp=chrome&spx=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=ed3eb3256dee971f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4d7a559b-6379-41a7-9e51-41ef759846aa@158.160.197.118:443?security=reality&encryption=none&pbk=TrAxIFIhSCc4C5IWnGvvAs2cSD_mVag1MlTCJPeLkGg&headerType=none&fp=chrome&spx=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=b9ceed646f470d2d#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&security=none&type=ws&host=cloudflare.com&path=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
