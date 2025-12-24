@@ -1,2 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.41.50:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0

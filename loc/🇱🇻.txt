@@ -1,2 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://bia-to---v2rayng_hub@172.66.40.99:443?mode=multi&security=tls&alpn=http/1.1&encryption=none&authority=lat.looloolooloo.com&fp=chrome&type=grpc&serviceName=/@v2rayng_hub/@v2rayng_hub/@v2rayng_hub/@v2rayng_hub/@v2rayng_hub/www.speedtest.net:443?ed=443&sni=lat.looloolooloo.com#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
