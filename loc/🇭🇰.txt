@@ -1,3 +1,6 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIiwiYWRkIjoibjE3NjEyMTQ5MDYud3BnMjcueHl6IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJjMjhhNjI1OC03YmFhLTQwZmMtOGE1MS04N2Y1OWM4NDdjZDciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJuMTc2MTIxNDkwNi53cGcyNy54eXoiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIiwiYWRkIjoibjE3NjEyMTQ5MTEuNzRxeHYudG9wIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIzNzJjMTkzOS0yOTlkLTQ5NDYtOTYzMy01ZmZhOTcxZjhiNjciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJuMTc2MTIxNDkxMS43NHF4di50b3AiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+trojan://15299860-fadf-4a95-bb62-63666856822b@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.41.50:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
