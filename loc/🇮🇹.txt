@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://97dd83ab-b3b7-43e4-9002-c6bdcae0729d@130.193.35.232:443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=6419bed7fd0a2cff#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://c7d76d42-cf84-47a8-aa5f-5134c536c326@5.249.155.77:34521?security=reality&type=tcp&sni=google.com&fp=chrome&sid=7bc779c7&pbk=YbuDQVoIuucjsRYp1gHCJk4s9QsYbAiUKZoNUwvUaVw&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
