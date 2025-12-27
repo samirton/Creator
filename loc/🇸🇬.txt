@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=ws&host=m.zoom.us&path=/FREE By Tharuwa (0767597317)&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&encryption=none&headerType=none&allowinsecure=0&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
