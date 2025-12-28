@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://c7d76d42-cf84-47a8-aa5f-5134c536c326@5.249.155.77:34521?security=reality&type=tcp&sni=google.com&fp=chrome&sid=7bc779c7&pbk=YbuDQVoIuucjsRYp1gHCJk4s9QsYbAiUKZoNUwvUaVw&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
