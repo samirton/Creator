@@ -1,3 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://ed4d4a81-b7e3-4a91-92af-e44248ff432b@142.93.33.103:10871?mode=gun&security=reality&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&pbk=XjXJ5LFff_KhumRd_oSXzGbAdKIH4rdYUXo3hGiSfF4&fp=chrome&type=grpc&sni=google.com&sid=d2fc48#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://9e5646ba-c661-41cd-8321-a164139b12cf@brenna.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fwwkmrkws&host=639020896781208902.mustang-amsjl.info&sni=639020896781208902.mustang-amsjl.info&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://217b0ac4-8e13-4291-a531-0ffc66dfe1d9@142.93.33.103:28877?security=reality&encryption=none&pbk=gTs2q8MpndOITjoLsH38EJw7qij9uwY9ofHl0LtycQE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=d68d#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
