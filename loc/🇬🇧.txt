@@ -1,5 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://407b3941-8bf7-49d5-abc6-1ffd61e57990@81.161.229.122:443?security=reality&encryption=none&pbk=XB_Ylp1U4K2uth4jZI2v7Wru8O1cy7Hw26LwlB9QAkk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://0aec5570-f7ab-4c9d-adc0-e095dfc57f00@23.81.33.188:443?security=reality&encryption=none&pbk=_R8NVxs54qm4NfrOLP_1uaT_GRzVlQsW1VUssxYgixo&headerType=none&fp=chrome&spx=%2FMZLOCi3Mxm0m9iC&type=tcp&flow=xtls-rprx-vision&sni=pn3web.sigmachemicals.ir&sid=251123bfe74c15b3#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
