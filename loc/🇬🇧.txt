@@ -1,2 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039?security=tls&type=ws&path=%2F&sni=de9.mediakit-ozon.ru&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://f0b261f2-132d-48f9-a896-f2b7d879182b@norman.ns.cloudflare.com:443?&security=tls&sni=639029621350078622.fit-amsjn.info&type=ws&headerType=none&host=639029621350078622.fit-amsjn.info&path=%2Faxcegbws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7

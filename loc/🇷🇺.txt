@@ -1,3 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://yUHNMwWvenoHBaN5CtqKPwt1CTzXgW@ru2.nnvpn.io:443?security=tls&sni=ru2.nnvpn.io&alpn=h2,http/1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://88f2c5cc-a287-4be9-be28-56c2729d3782@185.72.144.43:443?security=reality&encryption=none&pbk=ux7dvaHVn6eJ0d8zFNkWlB97ZmfLozzH7R_8qL0873A&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://d63129ab-04a5-4797-8a70-84f4ab610ca9@217.16.16.251:8443?security=reality&type=tcp&sni=eh.vk.vom&fp=chrome&sid=edc87d796657fbe5&pbk=bPN2gQ-96uG3DZONnduotvwViMDsUsN2XZnRkzXcMxk&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
