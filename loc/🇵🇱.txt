@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@45.144.48.192:8443?security=reality&type=tcp&sni=discordapp.com&fp=chrome&flow=xtls-rprx-vision&sid=50c860b05993532d&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?encryption=none&flow=xtls-rprx-vision&security=reality&sni=modily.net&fp=firefox&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
