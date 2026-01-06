@@ -1,4 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@www.perplexity.ai:80?path=/&security=none&encryption=none&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZTFmNmZlYTc0YjczOTFh@51.161.80.138:12743#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3@51.161.33.111:11202#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
