@@ -1,15 +1,11 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@picassooo.info:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@azizoarjmanddd.info:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://Parsashonam-Bot-42@104.17.147.22:8880?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.98:8880?encryption=none&security=none&sni=%2F%3F---%40Azarbayjab1_Net---%40Azarbayjab1_Net---%40azarbayjab1_Net---%40azarbayjab1_Net---%40Azarbayjab1_Net&fp=chrome&type=grpc#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://854eea7a-c834-4f62-9e17-ae63d1086f36@us2.krasivogame.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=&fp=chrome&type=tcp&sni=us2.krasivogame.ru&sid=868419504747f6de#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOGEwMWEzZmMwN2NkZTE0@209.126.8.72:10011#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjMzYzUzZjZlOWUzYzFi@85.239.232.127:10026#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTg2YWU4ZDc3M2YyNTBm@217.77.3.68:28954#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OGY3YWVkZDhhZGRhNmZl@207.244.226.239:45995#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOTZkNmI0MmUzMDU5NWRj@15.204.28.84:11201#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDk2YWI1NGEyMGY0ZTRl@66.94.125.222:43742#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYzM0Mzg2NGQ0MDY0MDUx@66.94.113.2:27115#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTk4M2MwYmY1OGJjNzQ5@154.53.38.145:26409#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZjljYjlhZWYzMTdmMDk2@147.135.77.6:11201#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2Y4ZDg3MGMwY2EwNGJj@147.135.78.88:11201#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://e343471a-aad3-40da-9dea-72cc8c7dce5f@69.84.182.108:443?&security=tls&fp=chrome&sni=pq-us4.globals-download.com&type=ws&headerType=none&host=pq-us4.globals-download.com&path=%2Fpq%2Fus4#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNTM3YmEzZTRmNGNkYTBj@144.126.158.195:12053#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@vk.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ookcdn.ru#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh41v3.carwashipdir.shop&fp=chrome&insecure=1&allowInsecure=1&type=grpc#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
