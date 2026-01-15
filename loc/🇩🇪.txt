@@ -1,15 +1,14 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?path=%2F&security=tls&encryption=none&insecure=0&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&fp=chrome&type=ws&allowInsecure=0&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://00a85603-d8c6-437d-a8bd-ea521107bd87@139.28.96.83:443?encryption=none&security=tls&sni=danfeng.ye.gs&type=ws&host=danfeng.ye.gs&path=%2F%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzFlODhiMDM4NDIyODY3@141.95.102.29:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:443?encryption=none&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&type=ws&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Yjk3Mzc0NTBhYjdmYzk4@57.129.95.218:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@104.18.26.90:8880?path=%2F&security=&encryption=none&host=servepross.ajorpare.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://14fe2c89-af11-4b7d-cc08-9641f0f2d8ee@doprax.fxgoldensignals.com:58153?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@rohin.ns.cloudflare.com:443?path=/hsdgsws&security=tls&alpn=http/1.1&encryption=none&host=forreest.info&fp=chrome&type=ws&sni=forreest.info#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.172.11:41647?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://087d8602-503b-4091-9f05-44c20792083c@185.143.233.235:80?allowInsecure=0&sni=oon.visaups.ir&type=ws&host=oon.visaups.ir&path=/#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security=none&encryption=none&host=oon.visaups.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMzNjNGNhZTAxZjhiYWNm@135.125.247.29:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYmJjYmZkNTMzMDQ3NWQx@141.95.106.215:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
@@ -17,14 +16,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NGMzMDNjMjg2NmM4Mzk5@141.95.105.216:11201#h
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYjVkMWJmZjc2Y2FlODdj@141.95.105.96:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZTNjNzU1ODFhZGU0NzFk@141.95.101.202:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.173.252:41647?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=grpc#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?&security=tls&fp=chrome&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&type=ws&headerType=none&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjA5NDZhZmM1OTE4YzQ5@57.129.95.232:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGMyZTM5MTIxYzgyMGZi@51.89.10.72:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWFjNjYwMDcwNzI4ZDZj@54.37.78.252:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTc4MjkyMWE4ZTcwODAy@195.7.6.160:18550#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMGZiMjgwNWVlOTMxNjkx@54.37.77.214:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTc4MjkyMWE4ZTcwODAy@195.7.6.160:18550#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYjMzZmU2N2EzMzBiM2Vh@141.95.101.9:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTYzZGYxYTAwMTc1OWJm@51.89.118.58:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
@@ -33,7 +31,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjViYzgwOTE5YTQ4NGE1@57.129.89.142:11201#ha
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjc2OTM5MzFmZDFmOWY4@57.129.89.241:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OWZhNTU0MWQxZDljY2Nl@141.95.104.30:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjAzMmQ5OTNkZmVjMzE4@141.95.104.145:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVlZmQ1Y2Y5ZTk0N2Fk@54.36.116.190:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMDY2OWZiMTY0NDZlNTI4@54.36.118.33:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MjNjZGI5NGE0NTdmYWVl@141.95.109.160:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
