@@ -1,4 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://a91e64f0-9295-499d-bf4a-661ad99d4938@91.243.82.82:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=khabarovsk.geodema.network&sid=1ed136481e0ede74#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://94f729b1-5e1c-474f-a952-b8816a04e2fc@195.2.76.224:48868?security=reality&encryption=none&pbk=QU6XzGL-1O93-UxkJYiV364sy30S5bI5EOahJL2blnE&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=f2e878#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
