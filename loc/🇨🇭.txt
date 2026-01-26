@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=/&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://431dfd3c-728c-41f2-9c8f-cf0d3a75a008@03030.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

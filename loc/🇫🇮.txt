@@ -1,3 +1,5 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?path=/130.162.193.183:15401&security=tls&alpn=http/1.1&encryption=none&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

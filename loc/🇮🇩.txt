@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?allowInsecure=0&sni=node-id-1.v2sv.top#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
