@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://9b378369-6383-48d1-97ff-102f33c88de4@mad.adaspolo.lat:2724?security=reality&encryption=none&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wordpress.org#hamedp71%3A%3A%E2%9D%93
+vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?path=/?ed=2082&security=tls&alpn=http/1.1&encryption=none&host=holcdn.wordperessweb.ir&fp=chrome&type=ws&sni=holcdn.wordperessweb.ir#hamedp71%3A%3A%E2%9D%93

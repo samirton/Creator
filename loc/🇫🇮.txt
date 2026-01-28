@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
