@@ -1,7 +1,5 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@145.133.64.171:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://a5e872dd-8d1d-4d89-83ac-ac1e13d38912@8.208.27.141:443?flow=xtls-rprx-vision&fp=firefox&pbk=HerZfkes2tFtduXTu7Ybx2aBjxVm_xoiDU4E-kMWpxw&security=reality&sid=&sni=static.cloud.coveo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN2U2NDVkY2YxMWRlZDFm@57.128.190.144:47000#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://a5e872dd-8d1d-4d89-83ac-ac1e13d38912@8.208.27.141:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=static.cloud.coveo.com&fp=firefox&pbk=HerZfkes2tFtduXTu7Ybx2aBjxVm_xoiDU4E-kMWpxw&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
