@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://fa7ea4ac-1ed6-467a-ae18-2099ed2bb4ae@146.190.85.213:45989?encryption=none&fp=chrome&pbk=YmPBYhQjKnaKKGDHQb6xxjvPw3nenm59T1ssG0KFcj0&security=reality&sid=1f13df2cb7&sni=apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
