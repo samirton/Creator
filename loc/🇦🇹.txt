@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://e6913fad-3b6a-469e-8e2e-750616ba9928@aafc2.lizard2shop.com:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=at0.lizardshop.org&path=/?ed&sni=at0.lizardshop.org&fp=chrome#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
