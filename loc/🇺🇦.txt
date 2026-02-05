@@ -1,3 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
-vless://5bcc9ea0-b76c-4049-af62-ce10fe56a38b@188.166.159.141:31212?security=reality&encryption=none&pbk=CptKL5jRuLHXRCctK3pXzCbx-ksw8Tda3DgVYv6rIH0&headerType=none&fp=chrome&type=tcp&sni=starlink.com&sid=2b2da49cdf#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
+vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.131.192:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=VGvu_q0ReJ-Of3rHuYR7RdNnGhcrurMvOrm9EA3dtzM&security=reality&sid=d73c7f7b13a6a076&sni=google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
