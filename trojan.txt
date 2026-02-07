@@ -1,4 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?allowInsecure=1&sni=frankfurtrm2.686911.xyz#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?security=tls&sni=frankfurtrm2.686911.xyz#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?security=tls&sni=hl-freedom-1.undef.network#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7

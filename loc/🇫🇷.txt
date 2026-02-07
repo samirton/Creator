@@ -1,2 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.59.121.155:2053?&security=tls&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=%2Fdownload&security=none&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTBjZTFhZjBhNmQ4ZGQ1@57.130.29.29:11201#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@vmaxa22.gatesrev.ir:8080?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&security=reality&sid=b7b70c104ad267b8&sni=chatgpt.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7

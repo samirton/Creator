@@ -1,4 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@gb01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=d3b13f31&sni=hls-svod.itunes.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiIxOC4xNjguMTI0LjU4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmZjdiZTQyZC03ZDA5LTQ0NWUtYjg5Zi05NmQ3NzEyZWI0YmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsInBvcnQiOjgwLCJwcyI6ImhhbWVkcDcxOjrwn4es8J+HpyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0
+trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?security=tls&sni=hl-freedom-1.undef.network#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
