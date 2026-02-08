@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv10.outlinekeys.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&security=reality&sni=srv10.outlinekeys.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9

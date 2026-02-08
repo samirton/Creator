@@ -1,4 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=%2Fdownload&security=none&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTBjZTFhZjBhNmQ4ZGQ1@57.130.29.29:11201#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@vmaxa22.gatesrev.ir:8080?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&security=reality&sid=b7b70c104ad267b8&sni=chatgpt.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vmess://eyJhZGQiOiIxODguMTE0Ljk4LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAiLCJwb3J0IjoiODA4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7

@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@ru01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=hls-svod.itunes.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
