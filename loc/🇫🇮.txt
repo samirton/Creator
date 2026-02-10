@@ -2,7 +2,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@finland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=abc323#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?type=ws&security=none&host=adspeedx23.global.ssl.fastly.net&path=/?ed%3D1049#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://ee603510-52e4-29f9-00b0-9a051ad424fb@65.109.179.221:26261?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://373a56eb-aaa9-4a92-b209-503dd916900f@fn.takovpn.ru:443?security=reality&encryption=none&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&headerType=none&fp=chrome&type=tcp&sni=www.vk.com&sid=286e2d#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fit.jojack.ru&fp=chrome&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&sid=f8865ecbb9bc11a3&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
