@@ -1,3 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@79.137.175.44:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.ru&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
