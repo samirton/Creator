@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://6432bbec-c4c0-4837-9aa3-82e79def5017@5.253.41.152:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&sid=83780413c2ad3eaa#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
