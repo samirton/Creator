@@ -1,3 +1,7 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?security=tls#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9

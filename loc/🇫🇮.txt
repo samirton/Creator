@@ -1,7 +1,11 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@fi.fasti.win:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=fi.fasti.win&fp=chrome&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461&type=tcp&path=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://5757c746-9878-4cfd-874a-edd95485f26d@fi.fasti.win:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=fi.fasti.win&fp=chrome&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461&type=tcp&path=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://3994b2e1-d52c-4536-9848-0b63d74560fa@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=071d2947bac1&sni=www.tradingview.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://18f72be7-0651-4037-928b-8a309d685796@game.pineappled.org:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206aWV0WGJmcTAzVmg4WENheHlDRElFZz09@95.217.37.166:2020#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://53d37ac8-efc2-492c-b6c6-a864dfebbbff@144.31.212.248:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0-0a99RLOG_2OW4j-e-UlzlMhnLubb9Gs6Ykd_bnjCM&security=reality&sid=e8b1ac21a7685b9c&sni=finland.jinnie.lol&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://79149019-5abe-46f9-91ae-e1e7d1d2c408@dns.dressforida.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=174c6cf22e22&sni=www.techradar.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@h22.amoosias.site:18521?type=ws&host=h22.amoosias.site&path=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@h22.amoosias.site:18521?encryption=none&security=none&type=ws&host=h22.amoosias.site&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
