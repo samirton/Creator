@@ -1,2 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://a7b4fe0c-2577-4aa3-9e0d-573fec207c65@94.183.186.118:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=YyRIZiLux0R8BZfaM3BseFoDRzoZ9ErRTbAvDATd-mI&sid=16&sni=yahoo.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTVjMTViYzE3NWI0ZDc0@37.60.250.243:20558#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
