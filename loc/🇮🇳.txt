@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://54a41073-e798-488b-af16-28533e612ec1@id.fasti.win:91?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=id.fasti.win#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
