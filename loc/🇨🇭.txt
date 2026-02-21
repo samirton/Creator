@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=/&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://d022bf00-7885-45b5-a170-bd37cc515fe0@83.228.230.174:46564?security=reality&encryption=none&pbk=BRVg0Eufu2EeUPUp5PhBTD325dTi8M_SFxcpfqFzqz4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=cloudflare.com&sid=3797#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
