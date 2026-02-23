@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=plcdn14.suio.me#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@144.31.2.126:443?encryption=none&fp=chrome&security=tls&sni=plcdn19.suio.me&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
