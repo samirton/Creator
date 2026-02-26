@@ -1,4 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTEwNmFmYzMzZWFhMjYx@148.113.139.160:46534#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6

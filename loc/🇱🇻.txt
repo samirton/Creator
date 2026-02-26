@@ -1,3 +1,5 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.229:2040?type=tcp&encryption=none&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://14818654-7689-453a-9a1f-4c72f89782d5@riga-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?security=reality&encryption=none&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ead461#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
