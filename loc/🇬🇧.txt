@@ -1,5 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://2a8391ef-383c-4321-ac25-89b50973ab73@217.154.38.156:443?type=tcp&security=reality&pbk=kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w&fp=chrome&sni=yahoo.com&sid=2e0f&spx=/#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://98aec3c3-d957-4363-9933-018e533c7c06@mrv.com.br:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7

@@ -1,4 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?security=reality&encryption=none&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&fp=chrome&type=grpc&sni=ya.ru&sid=7dcd0c337708#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@82.97.243.225:443?security=reality&encryption=none&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spb.scroogethebest.com&sid=9c2378562188c3cb#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90&sni=icloud.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

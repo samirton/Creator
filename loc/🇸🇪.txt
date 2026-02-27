@@ -1,4 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://94bc0da0-ef85-475a-95bc-d9b5eca5176c@sweden.urban-network.space:443?security=reality&encryption=none&pbk=B0rJltudbQm19lh5nF6jJIOOjatwGWaLIgweFzHGOUo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=sweden2.urban-network.space&sid=aaf38387ef412991#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.196.134:8443?security=reality&encryption=none&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net&sid=6b374e33af12fd1e#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
