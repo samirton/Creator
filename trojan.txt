@@ -1,4 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%E2%9D%93
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8

@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://bd3649eb-1f72-4629-8d20-ee640b03f0e1@45.12.135.99:443?security=reality&allowInsecure=0&encryption=none&type=tcp&path=Telegram=@N3TWRK &sni=yahoo.com&sid=822d&fp=chrome&pbk=tMbRR1FTvBecmMv3GLv50T21hXHqHxulqWBKwNEW50Q&spx=/&headerType=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE

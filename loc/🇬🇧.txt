@@ -1,4 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://b9e5c4b7-1e9b-4ca5-82dc-43f3a440484c@45.15.125.8:8443?security=reality&encryption=none&pbk=YF_Vfx9VdDFXKM4bL1RZx6vsUqlSMtT56wPt987Aul8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=db49831a996244d8#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
