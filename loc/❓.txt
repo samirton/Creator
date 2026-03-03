@@ -1,3 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://64aafe63-ef36-4da5-8bf9-838d767bfe74@51.250.0.147:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df&spx=/&type=tcp&headerType=none#hamedp71%3A%3A%E2%9D%93
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@free2.spectrum.vu:7443?encryption=none&type=grpc&mode=gun&serviceName=vless&security=reality&fp=chrome&sni=www.google.com&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&sid=ab1c1a11#hamedp71%3A%3A%E2%9D%93
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%E2%9D%93

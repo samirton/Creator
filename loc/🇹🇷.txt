@@ -1,4 +1,5 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@77.92.145.192:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&spx=/#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@77.92.145.192:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&spx=/#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://fed05faf-401f-3412-b658-5c96f3095dd0@91.132.51.160:443?security=reality&encryption=none&pbk=qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.refersion.com&sid=e164b85aec8a7422#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://94712dd9-17d8-4813-a118-cc487fadd137@77.83.245.189:27414?security=reality&encryption=none&pbk=eiA4uP7O29DoX6lvwhjaIXPTANlwvPB1Jzom_V2Z5gE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=1ba8b4cd54627171#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
