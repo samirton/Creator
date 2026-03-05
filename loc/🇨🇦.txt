@@ -1,2 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://4292f5ab-8963-044c-8052-3615895ce4f1@37.139.33.187:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vmess://eyJhZGQiOiJjYTIueHZtZXNzLnNpdGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhMi54dm1lc3Muc2l0ZSIsImlkIjoiSV9Mb3ZlX/Cfh7Xwn4e4X1NTSE1heF84Y2NmOWIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzI0RPTlQtRk9SR0VULVRPLVNVUFBPUlQtU1NITUFYLkNPTS1UTy1LRUVQLVRISVMtU0VSVkVSLUFMSVZFIiwicG9ydCI6IjQ0MyIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
