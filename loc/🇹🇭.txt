@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?path=/vless&security=none&encryption=none&host=www.ptnk.sry-vpn.com&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?encryption=none&host=www.ptnk.sry-vpn.com&path=/vless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
