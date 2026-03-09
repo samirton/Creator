@@ -1,3 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443?mode=gun&security=reality&encryption=none&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&fp=chrome&type=grpc&sni=a.primarymaster.online&sid=c5b7244c0fef441a#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vmess://eyJhZGQiOiIyMTMuMTgzLjU0LjI0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkN2Y1NjY4OC01NmEwLTQ0OGMtYmMwNC1mZDgzYzZhYzE3ZDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiaGFtZWRwNzE6OvCfh7fwn4e6Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://a774f61d-a518-4c61-902f-807797da6caf@51.250.77.87:12443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=a7_KyEavpDL_m5UTvJ1vd2Zz-_7oY93uavMhILlW1jU&security=reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
