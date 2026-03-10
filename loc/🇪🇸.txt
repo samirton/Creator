@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://438f81f8-aa18-4261-820a-87ee42122d0e@212.227.95.106:443?encryption=none&fp=chrome&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&security=reality&sid=a0cb&sni=yahoo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
