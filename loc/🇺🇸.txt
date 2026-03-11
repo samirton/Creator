@@ -1,6 +1,8 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.130.21:4019?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=pqh31v1.carwashipdir.shop&type=grpc#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://b1267991-59ff-4b67-b141-97e3ced4e7c8@66.179.82.126:443?type=tcp&security=reality&pbk=1xMt7stxzh55Xy31H180TZNMvRYNkhEE86StqE4CtDs&fp=chrome&sni=yahoo.com&sid=2f2a&spx=/#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:8443?security=reality&encryption=none&pbk=O0oplKJbcs9bjogO_OIrHYHjuNWhf0Kt5hGRNbYHZic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=abcd1234#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.57.155.85:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:3057?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh18v7.viripdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8

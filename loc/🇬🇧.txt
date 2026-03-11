@@ -1,5 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb05.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://395b4d7b-0abf-4b48-b9da-7432d800ef65@2.56.179.207:443?type=tcp&security=reality&pbk=TZG5DCQE_AbyDZ_I25TEewa-uk5bs_9Nx0X1vRSpxk8&fp=chrome&sni=yahoo.com&sid=6d7b&spx=/#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.124:443?&security=tls&sni=war.connecticut-haloo.info&type=ws&headerType=none&host=war.connecticut-haloo.info&path=%2Flove#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://14818654-7689-453a-9a1f-4c72f89782d5@108.165.174.192:2040?encryption=none&fp=chrome&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&security=reality&sid=50ed6f6007515d63&sni=tradingview.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7

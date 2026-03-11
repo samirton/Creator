@@ -1,2 +1,4 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://6ec42587-d79b-479e-984a-a2533eb457b2@8.216.21.75:20443?&security=reality&flow=xtls-rprx-vision&pbk=wIlDoplsuyFT7hzmd7y-gnRAlYTys99OU11k4v_Co0s&sid=abcd1234&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJhZGQiOiIzMS41OC4yMjMuMTM0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijc4Y2RjNmI3LThiMTQtNDdkNi1iZjA5LTMxNjdiYzUxMjRmYiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImhhbWVkcDcxOjrwn4ev8J+HtSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:34818?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
