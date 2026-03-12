@@ -1,3 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@es.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=es.fasti.win&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://438f81f8-aa18-4261-820a-87ee42122d0e@212.227.95.106:443?security=reality&encryption=none&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=a0cb#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
