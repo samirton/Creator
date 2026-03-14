@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh42v8.carwashipdir.shop&alpn=h2&insecure=1&allowInsecure=1&type=grpc#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%BE
