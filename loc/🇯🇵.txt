@@ -1,3 +1,5 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4937?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://6ec42587-d79b-479e-984a-a2533eb457b2@8.216.21.75:20443?&security=reality&flow=xtls-rprx-vision&pbk=wIlDoplsuyFT7hzmd7y-gnRAlYTys99OU11k4v_Co0s&sid=abcd1234&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=/#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwiYWRkIjoiY24wMi4zNjVjbG91ZDU4NzguY29tIiwicG9ydCI6IjYwMDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiOWYxZWNmY2EtMTNhOS00ODhkLWFjODQtYWFlYjczYThkNTc0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImNuMDIuMzY1Y2xvdWQ1ODc4LmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://d46ad20a-4454-4da7-8f9c-87f9152bedee@63.141.128.188:443?&security=tls&fp=chrome&sni=d2-jp2.djwstlsweb.top&type=ws&headerType=none&host=d2-jp2.djwstlsweb.top&path=/djjc/jp2#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://ef092640-433a-4f17-99bd-d5d206435606@high-speed-test-01.linkpc.net:61234?type=tcp&security=reality&path=/&sni=www.nintendo.com&fp=chrome&flow=xtls-rprx-vision&pbk=Ck5v8Ja1m7hmsS5ahJaKZr3Z6ARwQWnX15jxDJtLwzM&sid=9c#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:34818?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
