@@ -1,7 +1,6 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://ebb58926-84cf-460a-b6ce-b69656fcfcce@sg1.tangnin.top:1443?&security=tls&sni=sg1.tangnin.top&type=ws&headerType=none&host=sg1.tangnin.top&path=%2F#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://fac62eac-1eec-4260-a991-0cac2f8745a3@partner.zoom.us:80?&fp=chrome&type=ws&headerType=none&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?encryption=none&host=vps.zakir.web.id&path=vless&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://ebb58926-84cf-460a-b6ce-b69656fcfcce@sg1.tangnin.top:1443?allowInsecure=1&encryption=none&host=sg1.tangnin.top&path=/&security=tls&sni=sg1.tangnin.top&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=sg.fasti.win&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC

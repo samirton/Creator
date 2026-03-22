@@ -1,16 +1,14 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?allowInsecure=1&sni=fluent-stingray.crayfish192.xyz#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?allowInsecure=0&sni=enhanced-crayfish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IL37892054@engaged-ram.rooster465.autos:443?allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls&sni=upright-rhino.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=8443.golden-cards.me#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:3057?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
