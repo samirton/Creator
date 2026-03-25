@@ -1,14 +1,11 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%E2%9D%93
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:1524?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?allowInsecure=1&sni=fluent-stingray.crayfish192.xyz#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?allowInsecure=0&sni=enhanced-crayfish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
