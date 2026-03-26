@@ -1,5 +1,6 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://f1f26b76-ebc8-4f46-a3cf-8438c2f249a0@185.181.208.246:443?encryption=none&fp=chrome&pbk=UjNPtE5lA4RH0KXJjmaXUEnue8ezfzyI86lJBosZTQE&security=reality&sid=dc&sni=www.google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://66143a11-6e84-466e-9b83-5cfebfd2aea8@82.26.94.193:443?encryption=none&fp=chrome&pbk=Qk4CqeROBNOLujmefdp-SbW9eTfDr6BCN3Bo04IzbDI&security=reality&sid=a26f9030ae&sni=www.nvidia.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://b2f99930-7d48-4a22-8d67-539c440b6a7a@8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&path=%2F01119417&security=tls&sni=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://c5a7ef27-9f32-4acf-bf28-6421fb579f9b@tr.morty02.shop:46567?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
