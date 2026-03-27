@@ -1,8 +1,8 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://42b32d2f-42c1-4f63-a005-22ffbddcda53@188.114.98.0:443?&security=tls&alpn=http/1.1&sni=639073677236045352.mustang-perma.info&type=ws&headerType=none&host=639073677236045352.mustang-perma.info&path=/xxfzrfws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340?encryption=none&fp=chrome&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&security=reality&sid=4830d187&sni=www.sony.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://8de7627c-1995-41f7-93e6-7fd9715514a2@85.192.49.230:443?encryption=none&fp=chrome&pbk=VMMc3QkOG66O2cD0Ki36VOEDQxpGT5aK8KAwLGklJzw&security=reality&sid=c2&sni=www.google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@45.15.152.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=be91008fd0a4&sni=fin2.frostbot.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://5952ea01-0669-4f5e-8010-61f8abee3600@fi2.grizzlyvpn.work:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rPuuq2HGz8VfN9xjDjnjoi-HgTFi-ZvY5l8Ebktuqmc&security=reality&sid=7501ae7ef79c300d&sni=fi2.grizzlyvpn.work&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@138.124.6.182:10965?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

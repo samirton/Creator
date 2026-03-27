@@ -1,5 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.75.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K0J7MeoQdkINpubvpI7F0sqfx3TYonr35gCj3xlxRnw&security=reality&sid=c34685e6&sni=tunnel.vk-apps.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://3ddce082-7e03-429c-8af8-9a873d23f0ba@188.253.22.2:443?encryption=none&path=%2F&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB

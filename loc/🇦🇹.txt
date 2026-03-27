@@ -1,2 +1,5 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=93983a&sni=pass.qvinti.net&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://98d8cefc-499a-4969-9a59-f03e947adf78@87.251.69.48:8443?type=tcp&security=tls&encryption=none&fp=chrome&sni=at16.fastlanehosting.ru&alpn=h2,http/1.1#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
+vless://7270612b-49f6-4b04-999c-34d8263da767@162.159.44.45:443?allowInsecure=1&encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
