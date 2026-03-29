@@ -1,4 +1,5 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://dbb66087-10c5-451e-8d97-ea179984bce2@79.141.169.152:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=reality&pbk=DV5H1RoEhSpU4YqZ6YIzl4NbCI6IGJGPLSCOCkkDR3A&fp=chrome&sni=www.cloudflare.com&sid=a7bf5154&spx=/&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://WF42809561@nearby-muskrat.rooster465.autos:443?allowInsecure=0#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEzNzU5ODVlLTMzNGEtNGMyNS04ZjY0LTUyYTE4MmJjODAzNyIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9Ob3RpZl9DaGF0IiwicG9ydCI6NTUxODUsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsIm5hbWUiOiI+PkBmbHl2MnJheTo6SEs6OkhLOjpISzo6SEs6OkhLIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@95.40.61.115:443?&security=tls&fp=random&alpn=h3&sni=bab1c79b.soos.bbroot.com&type=ws&headerType=none&host=bab1c79b.soos.bbroot.com&path=%2Fsocks5%3D4b2c7676%3A6f0f4cbba5bb%4038.111.30.111%3A26433#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
