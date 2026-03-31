@@ -1,4 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://f1f26b76-ebc8-4f46-a3cf-8438c2f249a0@185.181.208.246:443?encryption=none&fp=chrome&pbk=UjNPtE5lA4RH0KXJjmaXUEnue8ezfzyI86lJBosZTQE&security=reality&sid=dc&sni=www.google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://9bde09b3-09b5-4d7a-b5fd-3fae8dfeed5a@185.72.9.200:56126?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://7f37b28b-cfcb-4c2a-ae41-8f2ddc9325dd@138.124.70.90:23151?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI&security=reality&sni=cms-res-web.online.sberbank.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
