@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@5.253.41.72:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=jp1.cyphervpn.pro&pbk=rjE8nekciQ8vkzooBJVwOIqV5tMS0soqdq1AysukY2Q&sid=5bfa0c&spx=/#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5

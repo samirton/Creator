@@ -1,16 +1,6 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-trojan://WF42809561@premium-lab.rooster465.autos:443?security=tls&sni=premium-lab.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://WF42809561@fun-seagull.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%E2%9D%93
+trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?sni=ord2.edge-command.click&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?allowInsecure=0&sni=fra35.chasem2026sud.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls&sni=touching-pigeon.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
