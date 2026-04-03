@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://6d0e9ded-d23d-4ffb-b165-7bc757be84d3@88.216.214.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HOO3-be4SQQrWpbVQWJlm2tGmkA9EaUvxOVquvmAgHw&security=reality&sid=3d07d54ea7fc37d3&sni=sun93-2.userapi.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
