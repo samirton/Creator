@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://09b81314-7592-4ffb-9773-6351de8a7f74@85.92.111.163:2083?encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=ir.ozone.ru&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
