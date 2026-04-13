@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://43488128-319e-f480-64ea-0acdc712e2a8@5.182.38.193:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=w6Z8qD0CCeAW68-mdkJ6b-eHf1o3j_DEoXtlN7lnaCw&security=reality&sid=a7c8f0630da31f6a&sni=www.mol.hu&type=tcp#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
