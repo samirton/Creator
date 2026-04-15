@@ -1,3 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.243.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.74.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vMinYb8gKWa5nS3KpDcpr31s1guSnow99f_ffRKK3Dg&security=reality&sid=12af0dd9&sni=tunnel.vk-apps.com&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA

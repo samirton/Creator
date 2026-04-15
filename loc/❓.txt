@@ -1,6 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%E2%9D%93
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@n08.zqwerty.ru:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#hamedp71%3A%3A%E2%9D%93
-trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.240:18390?security=tls&sni=osl9.solidly.click#hamedp71%3A%3A%E2%9D%93
-trojan://trojan@152.53.45.251:8888?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#hamedp71%3A%3A%E2%9D%93
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?path=%2F%3Fed&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#hamedp71%3A%3A%E2%9D%93
