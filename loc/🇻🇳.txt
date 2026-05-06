@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@202.144.192.37:443?allowInsecure=1&sni=ewgruiehoe.pages.dev&type=ws&host=ewgruiehoe.pages.dev&path=/fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
