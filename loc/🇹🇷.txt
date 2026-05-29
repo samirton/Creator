@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://a0ae4e44-480c-4282-b526-f1bdf749e0d1@104.16.7.70:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
