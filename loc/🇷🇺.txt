@@ -1,2 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://439f353b-b52f-4355-93d8-26e0567d5308@193.163.203.76:50592?security=reality&encryption=none&pbk=kATzSBDyNkm6Ee7p8Ad8iPD5CrJmkJ5n1T-l-LCRmXQ&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=b7ca855a4763a7ac#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?mode=gun&security=reality&encryption=none&authority=&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=5post-gate.x5.ru&sid=1fad87#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

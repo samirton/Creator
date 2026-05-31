@@ -1,4 +1,9 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%E2%9D%93
-trojan://8f3a2b1c9d4e5f6a7b8c9d0e1f2a3b4c@link.honghongai.top:8443?sni=link.honghongai.top#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=tls&headerType=none&sni=&fp=chrome&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click&fp=chrome&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click&fp=chrome&type=tcp#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://AZWY=WAZk5TeVYmMUudr2xmeb00I3ymeMQ@23.227.193.173:443?allowInsecure=0&sni=www.dataset-logger.click#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&fp=chrome&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
+trojan://8f3a2b1c9d4e5f6a7b8c9d0e1f2a3b4c@link.honghongai.top:8443?security=tls&sni=link.honghongai.top#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7

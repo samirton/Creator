@@ -1,7 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?type=tcp&security=reality&fp=chrome&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ&sid=e9a8&sni=yahoo.com&spx=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://696915f2-5ad4-452b-987c-d83d29d0503a@85.192.49.174:443?type=grpc&security=reality&fp=chrome&pbk=zz1etKRzRA4fwe0Te0p6jAlHorNJs4mmcljA3oL520E&sid=dfe3b09582689d40&sni=fi.moktana.app&mode=gun&serviceName=xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.215:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6&sni=queuev4.vk.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://027ddfdf-59c3-4cce-b75a-d6cec7ace390@89.125.37.77:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mO8C8IMouuBMVJA63JnS4xcdY7knrc7Hg_IclJR_MnE&sid=75&sni=www.nvidia.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://05e9d254-8ea8-4097-9450-d4aefc44bd7e@31.76.120.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MBkIKCORF_f5gqwnugFO7K4HUR8HAKPUuYVIarrQNU0&sid=bfc5&sni=www.sony.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
