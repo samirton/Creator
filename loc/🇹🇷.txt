@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://a4b4dbc4-c9c5-4360-9e9c-d6019118e318@185.226.95.155:80?encryption=none&security=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
