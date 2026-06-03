@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://a1b19834-a5e3-4d49-9301-aaa3fb248f49@185.14.46.20:443?sni=185.14.46.20.blanesik.space&type=grpc&serviceName=/sequre/grpc&fp=chrome&security=tls#hamedp71%3A%3A%E2%9D%93
