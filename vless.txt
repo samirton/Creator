@@ -1,4 +1,2 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://06a15a9b-9c24-4b0d-aaf2-6946b5143c69@n1.nolockhere.xyz:8444?type=grpc&security=reality&encryption=none&pbk=MYYmKsCC2_8v4ROpY7zT7sp4-XkWEvbzIxddjxuEwg8&sid=5673a8ac57374138&sni=yahoo.com&fp=chrome&serviceName=&mode=gun#hamedp71%3A%3A%E2%9D%93
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.10:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.68:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
