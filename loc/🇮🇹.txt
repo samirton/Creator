@@ -1,0 +1,2 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?security=reality&encryption=none&pbk=5pj_m0SB8p5ah-Jc7QZrF5iEVeeLyZY8fWM6OZWj5FM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
