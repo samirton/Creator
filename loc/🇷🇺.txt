@@ -1,3 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?encryption=none&type=ws&security=none&path=/rutube&host=rutube.globaledgenet.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&sid=4d3ff920673f7534&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=firefox&insecure=1&allowInsecure=1&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&sid=5cc0&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80?encryption=none&type=ws&path=%2Frutube&host=rutube.globaledgenet.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

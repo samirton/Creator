@@ -1,9 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@se1.vitok.cc:443?fp=chrome&pbk=F7NZa0wqjlz9zHlFUUW8rnh9j9GwX7e2rq3CynO3s1o&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@78.40.117.131:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ikea.com&fp=firefox&pbk=Dgu9RaToLbQcM1NCf_pS3ezHj6LsBQSYu50zWs5A6Qk&sid=57cc65bfd5ef7465&spx=%2F#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.25:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.163:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.133:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.34:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.2:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.9:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

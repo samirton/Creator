@@ -1,2 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&type=grpc&authority=&serviceName=vless-grpc&mode=gun#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
