@@ -1,3 +1,3 @@
 //profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-vless://403c1990-0922-43e9-9027-03ef38c92c87@72.56.245.170:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=firefox&insecure=1&allowInsecure=1&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&sid=5cc0&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80?encryption=none&type=ws&path=%2Frutube&host=rutube.globaledgenet.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://ccdce320-7eef-4815-8edb-c599987c2279@155.117.137.160:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn8-03.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=c7e42004e5f024be&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
